@@ -11,7 +11,7 @@ pipeline {
     stages {
         stage('Clone') {
             steps {
-               git 'https://github.com/ashokitschool/maven-web-app.git'
+               git https://github.com/Ekangaki/maven-web-app3.git
             }
         }
         stage('Build') {
