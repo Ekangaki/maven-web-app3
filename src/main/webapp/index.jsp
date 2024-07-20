@@ -8,7 +8,7 @@
   
   <h3> Our Office Location : Nguti </h3>
 
-<h1> CAMEROON </h1>
+<h1> AFRICA </h1>
 
 <h1> we are planning to start In person Afro IT Solutions Classes </h1>
 
